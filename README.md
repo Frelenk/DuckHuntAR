@@ -1,1 +1,1 @@
-# DuckHuntAR
+# Duck-Hunt-AR
